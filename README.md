@@ -1,5 +1,4 @@
 # Notes App
-
 This is a simple **Notes App** built using **MVVM architecture** and **Room Database**.
 
 ## Features
@@ -27,3 +26,7 @@ This is a simple **Notes App** built using **MVVM architecture** and **Room Data
 2. Click the **+** button to add a new note.
 3. Tap on any note to edit it.
 4. Click on the delete icon to remove a note.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
