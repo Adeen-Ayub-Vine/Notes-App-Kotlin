@@ -28,5 +28,5 @@ This is a simple **Notes App** built using **MVVM architecture** and **Room Data
 4. Click on the delete icon to remove a note.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
