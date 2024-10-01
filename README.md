@@ -5,6 +5,7 @@ This is a simple **Notes App** built using **MVVM architecture** and **Room Data
 - Add a new note
 - Edit an existing note
 - Delete a note
+- Search a note
 
 ## Tech Stack
 - **Architecture**: Model-View-ViewModel (MVVM)
